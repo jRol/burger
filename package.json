@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/jRol/Eat-Da-Burger#readme",
+  "homepage": "https://github.com/jRol/burger",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.16.4",
